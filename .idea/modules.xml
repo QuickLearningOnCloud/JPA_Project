@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/batch-fetching/batch-fetching.iml" filepath="$PROJECT_DIR$/batch-fetching/batch-fetching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/bookstore/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caching-and-object-identity/caching-and-object-identity.iml" filepath="$PROJECT_DIR$/caching-and-object-identity/caching-and-object-identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caching-objects/caching-objects.iml" filepath="$PROJECT_DIR$/caching-objects/caching-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cascades/cascades.iml" filepath="$PROJECT_DIR$/cascades/cascades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/component-mapping/component-mapping.iml" filepath="$PROJECT_DIR$/component-mapping/component-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-keys/composite-keys.iml" filepath="$PROJECT_DIR$/composite-keys/composite-keys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/criteria-api-jpa/criteria-api-jpa.iml" filepath="$PROJECT_DIR$/criteria-api-jpa/criteria-api-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equals-and-hashcode/equals-and-hashcode.iml" filepath="$PROJECT_DIR$/equals-and-hashcode/equals-and-hashcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foreign-key-in-composite-primary-key-using-mapsid/foreign-key-in-composite-primary-key-using-mapsid.iml" filepath="$PROJECT_DIR$/foreign-key-in-composite-primary-key-using-mapsid/foreign-key-in-composite-primary-key-using-mapsid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-as-jpa-provider/hibernate-as-jpa-provider.iml" filepath="$PROJECT_DIR$/hibernate-as-jpa-provider/hibernate-as-jpa-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-and-polymorphic-queries/inheritance-and-polymorphic-queries.iml" filepath="$PROJECT_DIR$/inheritance-and-polymorphic-queries/inheritance-and-polymorphic-queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isolation-rules/isolation-rules.iml" filepath="$PROJECT_DIR$/isolation-rules/isolation-rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazy-fetching/lazy-fetching.iml" filepath="$PROJECT_DIR$/lazy-fetching/lazy-fetching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logging/logging.iml" filepath="$PROJECT_DIR$/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manipulating-objects/manipulating-objects.iml" filepath="$PROJECT_DIR$/manipulating-objects/manipulating-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/many-to-many/many-to-many.iml" filepath="$PROJECT_DIR$/many-to-many/many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapping-associations/mapping-associations.iml" filepath="$PROJECT_DIR$/mapping-associations/mapping-associations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapping-collections-of-value-types/mapping-collections-of-value-types.iml" filepath="$PROJECT_DIR$/mapping-collections-of-value-types/mapping-collections-of-value-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapping-enums/mapping-enums.iml" filepath="$PROJECT_DIR$/mapping-enums/mapping-enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapsid/mapsid.iml" filepath="$PROJECT_DIR$/mapsid/mapsid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merging-detached-objects/merging-detached-objects.iml" filepath="$PROJECT_DIR$/merging-detached-objects/merging-detached-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n+1-selects-problem/n+1-selects-problem.iml" filepath="$PROJECT_DIR$/n+1-selects-problem/n+1-selects-problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-to-many/one-to-many.iml" filepath="$PROJECT_DIR$/one-to-many/one-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-to-one/one-to-one.iml" filepath="$PROJECT_DIR$/one-to-one/one-to-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optimistic-locking-and-versioning/optimistic-locking-and-versioning.iml" filepath="$PROJECT_DIR$/optimistic-locking-and-versioning/optimistic-locking-and-versioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orphan-removal/orphan-removal.iml" filepath="$PROJECT_DIR$/orphan-removal/orphan-removal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query-language/query-language.iml" filepath="$PROJECT_DIR$/query-language/query-language.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second-level-caching/second-level-caching.iml" filepath="$PROJECT_DIR$/second-level-caching/second-level-caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-objects/working-with-objects.iml" filepath="$PROJECT_DIR$/working-with-objects/working-with-objects.iml" />
+    </modules>
+  </component>
+</project>
